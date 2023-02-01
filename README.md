@@ -11,5 +11,7 @@ It requires _stdlib.jar_ which was provided by Dr. Kirlin.
 This program determines whether a text is expressing a positive, negative or neutral opinion from a movie review.
 
 __To Run:__
-1. Download the project
-2. Run the 'SentimentAnalysis.java' file
+1. Download the project 
+2. Open the project on IntelliJ
+3. Run the 'SentimentAnalysis.java' file
+4. Use the 'reviews-small.txt' or 'reviews-big.txt' as the file
