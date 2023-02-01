@@ -9,3 +9,7 @@ After this, the program reads the movie review and determines the movie rating o
 It requires _stdlib.jar_ which was provided by Dr. Kirlin.
 
 This program determines whether a text is expressing a positive, negative or neutral opinion from a movie review.
+
+__To Run:__
+1. Download the project
+2. Run the 'SentimentAnalysis.java' file
